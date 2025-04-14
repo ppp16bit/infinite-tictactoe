@@ -1,7 +1,5 @@
 # Welcome to Infinite TIC-TAC-TOE ^-^
 
-This is a Haskell implementation of an infinite Tic-Tac-Toe game with score tracking. The game continues indefinitely, and players can overwrite any board position at any time.
-
 Clone this repository using the following command:
 
 ```sh
