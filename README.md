@@ -35,9 +35,8 @@ Tictactoe.exe
 
 ## Rules
 
-- **Infinite Gameplay:** The game never ends; rounds continue indefinitely.
+- **Infinite Gameplay:** The game never ends rounds continue indefinitely.
 - **Scoring:** Winning a round gives the winner 1 point.
-- **Overwrite:** Players can overwrite any position on the board at any time.
 
 
 ## good game for everyone <3
